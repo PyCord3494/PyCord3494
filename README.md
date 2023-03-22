@@ -8,12 +8,12 @@
 Below is a list of servers I've developed bots for:
 <details>
    
-   UBXS Token Community 
-         Cryptocurrency | [Website](https://bixos.io/) | [Token](https://bscscan.com/token/0x4f1960E29b2cA581a38c5c474e123f420F8092db) 
-   Crown Network
-         ~8,500 members. Unofficial trading community for Elder Scrolls Online. 
-   KongWFC
-         [Twitter](https://twitter.com/kongwfc)
-   Megami And Goddess
-         [Twitter](https://twitter.com/megamigoddess) | [Linked.is](https://linked.is/megamiandgoddess)
+   UBXS Token Community  
+         &emsp;&emsp;Cryptocurrency | [Website](https://bixos.io/) | [Token](https://bscscan.com/token/0x4f1960E29b2cA581a38c5c474e123f420F8092db)  
+   Crown Network  
+         &emsp;&emsp;~8,500 members. Unofficial trading community for Elder Scrolls Online.  
+   KongWFC  
+         &emsp;&emsp;[Twitter](https://twitter.com/kongwfc)  
+   Megami And Goddess  
+         &emsp;&emsp;[Twitter](https://twitter.com/megamigoddess) | [Linked.is](https://linked.is/megamiandgoddess)  
 </details>
